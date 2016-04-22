@@ -34,6 +34,9 @@ PRODUCT_PACKAGES += \
 	libactuator_bu64295g \
 	libactuator_bu64295g_camcorder \
 	libactuator_bu64295g_camera \
+	libactuator_dw9719 \
+	libactuator_dw9719_camcorder \
+	libactuator_dw9719_camera \
 	libadsprpc \
 	libchromatix_imx134_common \
 	libchromatix_imx134_cpp_liveshot \
@@ -101,6 +104,7 @@ PRODUCT_PACKAGES += \
 	libmmcamera_hdr_gb_lib \
 	libmmcamera_imglib \
 	libmmcamera_imx134 \
+	libmmcamera_imx134a \
 	libmmcamera_imx200b \
 	libmmcamera_imx241 \
 	libmmcamera_isp_abf44 \
